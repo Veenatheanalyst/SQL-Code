@@ -215,20 +215,3 @@ select Top 5 * from NashvilleHousing
 where year(SaleDateConverted) = '2015'
 order by TotalValue desc
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
